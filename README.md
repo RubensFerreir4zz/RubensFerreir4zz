@@ -28,7 +28,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor em formação apaixonado por tecno
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensFerreir4zz&layout=compact&langs_count=7&theme=omni" alt="Linguagens mais usadas pelo Rubens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensFerreir4zz&layout=compact&langs_count=7&theme=dark" alt="Linguagens mais usadas pelo Rubens" />
 </div>
 
 ---
